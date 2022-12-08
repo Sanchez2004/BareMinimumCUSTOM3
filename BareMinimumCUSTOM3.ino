@@ -1,3 +1,9 @@
+
+/*
+*
+* deprecated! Use BareMinimumCUSTOM4.
+*
+*/
 //Vars for timing leds, regurdless of the number of leds.
 unsigned long signalShort = 200;
 unsigned long signalLong = 500;
